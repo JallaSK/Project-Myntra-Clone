@@ -122,7 +122,7 @@ header {
 
 /* Footer Section */
 .footer_container {
-    padding: 30px 0px 40px 0px;
+    padding: 30px 0px 25px 0px;
     background: #FAFBFC;
     display: flex;
     justify-content: space-evenly;
